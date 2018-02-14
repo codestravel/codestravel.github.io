@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+一只热爱程序设计的菜鸡。。。
 
-### More Information
+### 微信公众号`代码之间`
+![微信公众号](https://raw.githubusercontent.com/windyware/windyware.github.io/master/images/weixingzh.png)
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### QQ `1215714557`
+### Email `1215714557@qq.com`
